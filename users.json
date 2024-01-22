@@ -1,0 +1,12 @@
+[
+    {
+        "email": "test@test.dk",
+        "password": "Jegersej!",
+        "user": "user"
+    },
+    {
+        "email": "sonny@sonny.dk",
+        "password": "Jegersej151624!",
+        "user": "admin"
+    }
+]
